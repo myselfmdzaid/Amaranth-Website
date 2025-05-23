@@ -107,20 +107,24 @@ a {
 
 /* content about vision paragraph */
 .content {
-    max-width: 1000px;
-    margin: 40px auto;
-    text-align: justify;
     font-size: 18px;
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 20px;
+    text-align: justify;
+    animation: fadeIn 1s ease-in-out;
 }
 
 /* -------------------------------------------------------------------------------------------------------------- */
 
 /* About Page */
 .aboutp, .visionp {
-    max-width: 1000px;
-    margin: 40px auto;
-    text-align: justify;
     font-size: 18px;
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 20px;
+    text-align: justify;
+    animation: fadeIn 1s ease-in-out;
 }
 
 .aboutImagesdiv {
